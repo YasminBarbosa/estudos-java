@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class Carro {
+    String modelo;
+    String cor;
+    int ano;
 }
